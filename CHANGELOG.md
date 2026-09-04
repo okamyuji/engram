@@ -1,3 +1,9 @@
+## [0.6.1](https://github.com/okamyuji/kizami/compare/v0.6.0...v0.6.1) (2026-09-04)
+
+### Bug Fixes
+
+- **deps:** bump fast-uri to 3.1.6 (GHSA-jqff-g426-hqxp and 3 related) ([#21](https://github.com/okamyuji/kizami/issues/21)) ([368a995](https://github.com/okamyuji/kizami/commit/368a995f14d30309b3a3a1ea5c31bfae3388727a)), closes [#59](https://github.com/okamyuji/kizami/issues/59) [#60](https://github.com/okamyuji/kizami/issues/60) [#62](https://github.com/okamyuji/kizami/issues/62)
+
 ## [0.6.0](https://github.com/okamyuji/kizami/compare/v0.5.5...v0.6.0) (2026-08-08)
 
 ### Features
